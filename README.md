@@ -11,11 +11,12 @@ Furk Ultra is a executor with a built in scripts
 
  # 📁 〢 Tutorial
  1) Download [Furk Ultra](https://github.com/Furky-Main/Furk-Ultra-Roblox-Executor-Remake/releases/tag/Roblox)
- 3) Extract the ZIP file
- 4) Run FurkUltra.exe to load up the executor 
- 5) Launch any roblox game you want to use scripts in
- 6) Click inject
- 7) After injecting execute your scripts.
+ 2) Extract the ZIP file
+ 3) Run FurkUltra.exe to load up the executor 
+ 4) Launch any roblox game you want to use scripts in
+ 5) Click inject
+ 6) After injecting execute your scripts.
+ 7) Enjoy Exploiting.
 
  # List of features
  - No Key System
