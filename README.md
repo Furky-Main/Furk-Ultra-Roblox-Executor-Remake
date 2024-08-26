@@ -5,7 +5,7 @@ Remake of furk ultra for the post byfron update. Will try to work on it after sc
 # Furk-Ultra
 Furk Ultra is a executor with a built in scripts
 
-## Important:  Make sure u turn onbyfron bypass in settings after launching Furk Ultra to prevent from getting kicked or banned
+## Important:  Make sure u turn on byfron bypass in settings after launching Furk Ultra to prevent from getting kicked or banned
 
  **Click [here](https://github.com/Furky-Main/Furk-Ultra-Roblox-Executor-Remake/releases/tag/Roblox) to download**
 
